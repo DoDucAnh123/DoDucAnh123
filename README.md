@@ -46,6 +46,7 @@ body {
 <br>
 <br>
 
+<p>
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -64,7 +65,7 @@ plt.yticks(ticks=y)
 plt.ylabel("Number of transactions")
 plt.title("Company performance")
 plt.show()
- 
+</p>
 
 </body>
 </html>
