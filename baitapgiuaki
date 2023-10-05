@@ -1,5 +1,4 @@
 # sample-21080300
-<!DOCTYPE html>
 <html>
 <head>
 <title>21080300-Do Duc Anh</title>
@@ -49,3 +48,6 @@ plt.yticks(ticks=y)
 plt.ylabel("Number of transactions")
 plt.title("Company performance")
 plt.show()
+
+</body>
+</html>
