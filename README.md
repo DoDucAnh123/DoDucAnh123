@@ -1,4 +1,3 @@
-# sample-21080300
 <html>
 <head>
 <title>21080300-Do Duc Anh</title>
@@ -46,7 +45,6 @@ body {
 <br>
 <br>
 
-<p>
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -65,7 +63,6 @@ plt.yticks(ticks=y)
 plt.ylabel("Number of transactions")
 plt.title("Company performance")
 plt.show()
-</p>
 
 </body>
 </html>
