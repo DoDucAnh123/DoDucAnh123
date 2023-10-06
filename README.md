@@ -40,29 +40,6 @@ body {
   <p>MAS 1 - 21080300</p>
 
 </div>
-<br>
-<br>
-<br>
-<br>
-
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-
-labels=["North","East","West","South"]
-yvals=[10,1,2,7]
-
-nbars=len(labels)
-y=np.arange(nbars)
-
-plt.bar(labels,yvals, color='r')
-plt.plot()
-
-plt.xlabel("Region")
-plt.yticks(ticks=y)
-plt.ylabel("Number of transactions")
-plt.title("Company performance")
-plt.show()
 
 </body>
 </html>
