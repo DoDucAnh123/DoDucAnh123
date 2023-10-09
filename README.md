@@ -37,7 +37,7 @@ body {
   <h1>Đỗ Đức Anh</h1>
   <p>MAS 1 - 21080300</p>
 </div>
-
+</head>
 <body>
 
 <br>
@@ -64,6 +64,7 @@ body {
 <br><br>
 <br><br><center><img src="KNN.png" width="1000" height="700"  alt="error"/></center>
 <br><br>
+</body>
 
-
+</html>
 
