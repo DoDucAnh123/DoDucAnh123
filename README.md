@@ -58,7 +58,12 @@ body {
 <br><br>
 
 <br><br><center><img src="linecharts.png" width="1000" height="800"  alt="error"/></center>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br><center><img src="KNN.png" width="1000" height="700"  alt="error"/></center>
+<br><br>
 </body>
 
 </html>
-
